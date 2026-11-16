@@ -37,7 +37,7 @@ Five skills carry real example images under `examples/images/`. Every image is a
 - **carousel-thumbnail-design** — three cards from a real carousel (cover, text card, brand end card), rendered by the NeedCraft carousel builder.
 - **prompt-writing** — the Pinterest asset from the 16 Nov 2026 Top 5 post, whose copy was written with the skill's prompt block.
 - **video-script-retention** — three storyboard frames (hook, problem, CTA) from NeedCraft reel-01.
-- **post-publish-qa** — a real QC before/after pair: frame 28 of reel-01 as caught broken, and after the fix. (The $39 price visible in the frames was the product's price when the reel was made in Oct 2026; the First-Client Email System is $19 today.)
+- **post-publish-qa** — a real QC before/after pair: frame 28 of reel-01 as caught broken, and after the fix.
 
 Skills without images are text-only by design — no screenshot was fabricated to fill a slot. No image in this bundle was AI-generated as proof, and no number on any image is unverified.
 
